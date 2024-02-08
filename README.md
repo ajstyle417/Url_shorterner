@@ -1,1 +1,1 @@
-## Full stack MERN project - Easy Link App, url shortener
+## Full stack MERN project -  url shortener
